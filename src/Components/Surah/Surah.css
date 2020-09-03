@@ -1,0 +1,5 @@
+.surah:hover {
+    box-shadow: 3px 6px 15px gray;
+    /* transform: scale(1.2); */
+    /* background: #000; */
+}
