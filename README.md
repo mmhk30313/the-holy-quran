@@ -1,4 +1,6 @@
-# [Project Link](https://dreamy-colden-89e8b0.netlify.app)
+# Project Link
+
+   [https://the-holy-quran.netlify.app/](https://dreamy-colden-89e8b0.netlify.app)
 
 ## The Holy Quran:
 -	A simple web app can be used for reciting The Holy Quran
